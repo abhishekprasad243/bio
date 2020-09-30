@@ -1,7 +1,7 @@
 .top-cloud{
   position: relative;
-  left: 350px;
-  padding-top: 20px;
+  left:8500px;
+  padding-top: 800px;
   padding-bottom: 30px;
 }
 .top-container{
@@ -29,12 +29,12 @@
   width:200px;
 }
 .skill-row{
-  width: 50%;
-  margin:100px auto 100px auto;
+  width: 80%;
+  margin:200px auto 100px auto;
   text-align:left;
 }
 .po{
-  width: 50%;
+  width: 80%;
   text-align: left;
   margin-left: 200px;
 
